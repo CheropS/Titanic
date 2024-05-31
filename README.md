@@ -29,3 +29,10 @@ This project looks into analyzing data from the passengers from the Titanic and 
 - -- Parent = mother, father
 - -- Child = daughter, son, stepdaughter, stepson
 - -- Some children travelled only with a nanny, therefore parch=0 for them.
+
+## Files in the Project 
+The project has 3 files which contain the following:
+* [Training set](/titanic/train.csv): This contains the primary csv file that we will use in this project to train the dataset, 
+* [Validation](/titanic/test.csv)
+* [Gender](/titanic/gender_submission.csv)
+
