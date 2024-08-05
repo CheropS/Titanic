@@ -36,3 +36,49 @@ The project has 3 files which contain the following:
 * [Validation](/titanic/test.csv)
 * [Gender](/titanic/gender_submission.csv)
 
+## Features
+
+## Installation 
+Steps to install and set up the project.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/CheropS/Titanic.git 
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Titanic
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install  # or any other package manager you use
+    ```
+
+## Usage
+Instructions on how to use the project.
+1. Start the application:
+    ```sh
+    npm start  # or the relevant command for your project
+    ```
+2. Access the application at `http://localhost:3000` (or the relevant URL).
+
+## Screenshots
+Include screenshots to give users a visual understanding of the project.
+![Screenshot Description](path/to/screenshot.png)
+
+## Contributing
+Guidelines for contributing to your project.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+Specify the license under which the project is distributed. For example:
+## Contact
+If you have any questions or feedback, feel free to reach out:
+
+- Email: your.email@example.com
+- GitHub: [yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
